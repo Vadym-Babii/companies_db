@@ -7,5 +7,97 @@
     { "title": "Company_A_Demo", "demo_status": true, "id": 5 },
     { "title": "Company_F", "demo_status": false, "id": 6 },
     { "title": "Company_G_Demo", "demo_status": true, "id": 7 }
+    ],
+    "scenarioProgramsColumns": [
+      {
+        "id": "Program name",
+        "label": "Program name"
+      },
+      {
+        "id": "ID",
+        "label": "ID"
+      },
+      {
+        "id": "Product",
+        "label": "Product"
+      },
+      {
+        "id": "Drivers",
+        "label": "Drivers"
+      },
+      {
+        "id": "Base vehicle",
+        "label": "Base vehicle"
+      },
+      {
+        "id": "Business use",
+        "label": "Business use"
+      },
+      {
+        "id": "Gas grade",
+        "label": "Gas grade"
+      },
+      {
+        "id": "Retention cycle",
+        "label": "Retention cycle"
+      },
+      {
+        "id": "Annual fixed cost adjustment",
+        "label": "Annual fixed cost adjustment"
+      },
+      {
+        "id": "Insurance",
+        "label": "Insurance"
+      }
+    ],
+    "scenarioProgramsRows": [
+      {
+        "program_name": "Auto Allowance",
+        "id": 16194,
+        "product": "FAVR",
+        "drivers": 6,
+        "base_vehicle": "2022 Compact Sedan",
+        "business_use": "71.4%",
+        "gas_grade": "Regular",
+        "retention_cycle": "7 years",
+        "annual_fixed_cost_adjustment": "$1,934.49",
+        "insurance": "Standard Coverage with $1,000 Deductibles"
+      },
+      {
+        "program_name": "Standard",
+        "id": 16194,
+        "product": "FAVR",
+        "drivers": 6,
+        "base_vehicle": "2022 Compact Sedan",
+        "business_use": "71.4%",
+        "gas_grade": "Regular",
+        "retention_cycle": "7 years",
+        "annual_fixed_cost_adjustment": "$1,934.49",
+        "insurance": "Standard Coverage with $1,000 Deductibles"
+      },
+      {
+        "program_name": "Exceptions",
+        "id": 16194,
+        "product": "FAVR",
+        "drivers": 6,
+        "base_vehicle": "2022 Compact Sedan",
+        "business_use": "71.4%",
+        "gas_grade": "Regular",
+        "retention_cycle": "7 years",
+        "annual_fixed_cost_adjustment": "$1,934.49",
+        "insurance": "Standard Coverage with $1,000 Deductibles"
+      },
+      {
+        "program_name": "Midsize Vehicle",
+        "id": 16194,
+        "product": "FAVR",
+        "drivers": 6,
+        "base_vehicle": "2022 Compact Sedan",
+        "business_use": "71.4%",
+        "gas_grade": "Regular",
+        "retention_cycle": "7 years",
+        "annual_fixed_cost_adjustment": "$1,934.49",
+        "insurance": "Standard Coverage with $1,000 Deductibles"
+      }
     ]
 }
