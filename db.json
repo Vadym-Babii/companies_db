@@ -99,5 +99,49 @@
         "annual_fixed_cost_adjustment": "$1,934.49",
         "insurance": "Standard Coverage with $1,000 Deductibles"
       }
+    ],
+    "scenariosTableColumns": [
+      {
+        "id": "scenarioName",
+        "label": "Scenario Name"
+      },
+      {
+        "id": "averageFixedPayment",
+        "label": "Av. Fixed Payment"
+      },
+      {
+        "id": "averageTotalReimbursement",
+        "label": "Av. Total Reimburs."
+      },
+      {
+        "id": "totalAnnualCost",
+        "label": "Total Annual Cost"
+      },
+      {
+        "id": "mergeAndAembWarning",
+        "label": "Merge&AEMB Warning"
+      },
+      {
+        "id": "status",
+        "label": "Scenario Status"
+      }
+    ],
+    "scenariosTableRows": [
+      {
+        "scenarioName": "Initial",
+        "averageFixedPayment": "$593.80",
+        "averageTotalReimbursement": "$1,144.76",
+        "totalAnnualCost": "$164,844.84",
+        "mergeAndAembWarning": "-",
+        "status": "Initial"
+      },
+      {
+        "scenarioName": "Trackers and SaleR...",
+        "averageFixedPayment": "$596.20",
+        "averageTotalReimbursement": "$1,144.45",
+        "totalAnnualCost": "$164,844.80",
+        "mergeAndAembWarning": "No",
+        "status": "Modeling"
+      }
     ]
 }
